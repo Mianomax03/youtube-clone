@@ -8,7 +8,7 @@
     "main.225a9121.js.map": "/youtube-clone/static/js/main.225a9121.js.map"
   },
   "entrypoints": [
-    "static/css/main.7064deb2.css",
-    "static/js/main.225a9121.js"
+    "/youtube-clone/static/css/main.7064deb2.css",
+    "/youtube-clone/static/js/main.225a9121.js"
   ]
 }
