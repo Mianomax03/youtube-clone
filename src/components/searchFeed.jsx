@@ -1,11 +1,11 @@
 import {useState,useEffect}from 'react'
 import {Box,Typography} from '@mui/material'
 import {fetchFromAPI} from '../utils/fetchFromAPI'
-import {Videos} from './' 
+import {Videos} from '.' 
 import { useParams } from 'react-router-dom'
 
 
-const searchFeed = () => {
+const SearchFeed = () => {
  
   const [videos,setVideos]= useState([]);
   const {searchTerm} = useParams()
@@ -25,4 +25,4 @@ const searchFeed = () => {
   )
 }
 
-export default searchFeed
+export default SearchFeed

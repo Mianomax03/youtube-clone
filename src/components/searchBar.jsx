@@ -6,7 +6,7 @@ import{Search} from '@mui/icons-material';
 
 
 
-const searchBar = () => {
+const SearchBar = () => {
   const [searchTerm,setSearchTerm]=useState("");
   const navigate = useNavigate();
 
@@ -49,4 +49,4 @@ const searchBar = () => {
   )
 }
 
-export default searchBar
+export default SearchBar

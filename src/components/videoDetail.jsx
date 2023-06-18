@@ -4,12 +4,12 @@ import ReactPlayer from "react-player";
 import { Typography, Box, Stack } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 
-import { Videos, Loader } from "./";
+import { Videos, Loader } from ".";
 import { fetchFromAPI } from "../utils/fetchFromAPI";
 
 
 
-const videoDetail = () => {
+const VideoDetail = () => {
   const [videoDetail, setVideoDetail] = useState(null);
   const [videos, setVideos] = useState(null);
 
@@ -66,4 +66,4 @@ const videoDetail = () => {
   )
 }
 
-export default videoDetail
+export default VideoDetail
