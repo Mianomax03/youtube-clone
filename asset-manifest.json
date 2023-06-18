@@ -3,12 +3,12 @@
     "main.css": "/youtube-clone/static/css/main.7064deb2.css",
     "main.js": "/youtube-clone/static/js/main.225a9121.js",
     "static/media/youtube-logo-png-2067.png": "/youtube-clone/static/media/youtube-logo-png-2067.c87142fc4c066477d04a.png",
-    "index.html": "/index.html",
+    "index.html": "/youtube-clone/index.html",
     "main.7064deb2.css.map": "/youtube-clone/static/css/main.7064deb2.css.map",
     "main.225a9121.js.map": "/youtube-clone/static/js/main.225a9121.js.map"
   },
   "entrypoints": [
-    "/youtube-clone/static/css/main.7064deb2.css",
-    "/youtube-clone/static/js/main.225a9121.js"
+    "static/css/main.7064deb2.css",
+    "static/js/main.225a9121.js"
   ]
 }
