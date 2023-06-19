@@ -2,8 +2,8 @@
   "files": {
     "main.css": "/youtubeclone/static/css/main.7064deb2.css",
     "main.js": "/youtubeclone/static/js/main.225a9121.js",
-    "/youtubeclone/static/media/youtube-logo-png-2067.png": "/static/media/youtube-logo-png-2067.c87142fc4c066477d04a.png",
-    "index.html": "/index.html",
+    "/youtubeclone/static/media/youtube-logo-png-2067.png": "/youtubeclone/static/media/youtube-logo-png-2067.c87142fc4c066477d04a.png",
+    "index.html": "/youtubeclone/index.html",
     "main.7064deb2.css.map": "/youtubeclone/static/css/main.7064deb2.css.map",
     "main.225a9121.js.map": "/youtubeclone/static/js/main.225a9121.js.map"
   },
